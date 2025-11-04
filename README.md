@@ -1,2 +1,2 @@
 # weather-news-privacy
-Weather News Privacy Policy
+XTX Weather News Privacy Policy
